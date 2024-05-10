@@ -13,7 +13,7 @@
 
 ## Использование
 
-### Разбиение видео на кадры
+### Разбиение видео на кадры в CLI
 python frame.py split --video_path /path/to/video.mp4 --output_folder /path/to/output/frames
 
 Где:
